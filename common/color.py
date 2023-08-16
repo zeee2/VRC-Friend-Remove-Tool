@@ -1,0 +1,6 @@
+CYAN		= '\033[96m'
+MAGENTA     = '\033[95m'
+YELLOW 		= '\033[93m'
+GREEN 		= '\033[92m'
+RED 		= '\033[91m'
+ENDC 		= '\033[0m'
